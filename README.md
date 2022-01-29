@@ -6,11 +6,9 @@
 
 Ever want to convert an image into an ASCII-generated image? This small web application will do just that. Simply upload your own image, then convert for in-browser viewing or download. The downloaded files are .PNG not a .txt file like you might expect.
 
-[url=https://postimg.cc/5QQMwk4g][img]https://i.postimg.cc/5QQMwk4g/ascii-generator-example-1.jpg[/img][/url]
+![ascii-generator-example-2](https://user-images.githubusercontent.com/45617450/151647761-f4e06c5e-5b10-4745-bd3d-1d4ce5199a99.jpg)
+![z-render-ascii (2)](https://user-images.githubusercontent.com/45617450/151647763-8409f93e-8f20-4506-8186-d9cad2f7c26a.png)
 
-[url=https://postimg.cc/jwFbnrbC][img]https://i.postimg.cc/jwFbnrbC/ascii-generator-example-2.jpg[/img][/url]
-
-[url=https://postimg.cc/JDn8hzS9][img]https://i.postimg.cc/JDn8hzS9/z-render-ascii-2.png[/img][/url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
